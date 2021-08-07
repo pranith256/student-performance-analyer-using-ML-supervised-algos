@@ -1,0 +1,2 @@
+python ClassifyStudent.py
+pause
